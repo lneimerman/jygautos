@@ -1,0 +1,1 @@
+var r=[{value:"auto",label:"Auto",plural:"Autos"},{value:"moto",label:"Moto",plural:"Motos"},{value:"cuatriciclo",label:"Cuatriciclo",plural:"Cuatriciclos"},{value:"trailer",label:"Trailer",plural:"Trailers"}];function e(l){return r.find(a=>a.value===l)?.value??null}export{r as a,e as b};
